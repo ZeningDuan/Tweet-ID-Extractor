@@ -1,4 +1,4 @@
-# Tweet-ID-Extracter
+# Tweet-ID-Extractor
 
 An easy way to extract tweet id information from Synthesio Tweet dataset.
 
@@ -7,7 +7,7 @@ An easy way to extract tweet id information from Synthesio Tweet dataset.
 <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
 <details open="open">  
   <ol>
-    <li><a href="#about-the-extracter">About the Extracter</a>
+    <li><a href="#about-the-extractor">About the Extractor</a>
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -16,7 +16,7 @@ An easy way to extract tweet id information from Synthesio Tweet dataset.
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About the Extracter
+## About the Extractor
 
 This Extracter was built in Python 3.7.0. 
 
